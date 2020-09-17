@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ChangeDurationDlg.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeLineEditor.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTimeAlloc.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTimeAllocDoc.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ztimeline.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChangeDurationDlg.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MemDC.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeLineEditor.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTimeAlloc.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTimeAllocDoc.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ztimeline.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Graphics\bitmap2.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Graphics\Clock.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Graphics\Fx.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Graphics\LabelInfo.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Graphics\SliceBodyTile.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Graphics\SliceEdgeLeft.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Graphics\SliceEdgeRight.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Graphics\SliceInOutFxTile.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\Graphics\TimeLineHandler.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Graphics\TimeLineHandler.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Graphics\SliceInOutFxTile.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Graphics\SliceEdgeRight.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Graphics\SliceEdgeLeft.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Graphics\SliceBodyTile.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="res\qTimeLineEditor.ico" />
+    <Image Include="Graphics\LabelInfo.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="Graphics\Fx.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Download\Pics\ApplicationIcons\Edit6\Cursor_75.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="..\Graphics\HANDCATCH.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="..\Graphics\HANDFREE.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="..\Graphics\ResizeHor.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="..\Graphics\ResizeHorFlat.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="res\qTimeLineEditor.rc2" />
+    <None Include="Graphics\ResizeHorFlat.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="Graphics\ResizeHor.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="Graphics\HANDFREE.cur">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="Graphics\HANDCATCH.cur">
+      <Filter>Resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{05ae5335-a84a-48c1-ba21-4f1c80d5a9c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{050fd51b-fda3-4f48-84da-07f0a7fa6771}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{b61c8703-0d84-4bce-914a-559317deb132}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="qTimeLineEditor.rc" />
+  </ItemGroup>
+</Project>
